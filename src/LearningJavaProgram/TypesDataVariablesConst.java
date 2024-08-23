@@ -1,4 +1,4 @@
-package learning;
+package LearningJavaProgram;
 
 public class TypesDataVariablesConst {
     public static void main(String[] args) {

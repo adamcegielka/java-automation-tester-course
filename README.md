@@ -3,7 +3,7 @@
 [![Cucumber](https://img.shields.io/badge/Documantation-Cucumber-23d96c.svg?logo=cucumber)](https://cucumber.io/)
 
 # Learning Automated Testing: Java & Selenium
-This is a personal project aimed at improving my skills in automated testing with Java and Selenium. The project was created exclusively for learning purposes and to showcase my testing abilities.
+This is a personal project aimed at improving my skills in automated testing with Java and Selenium. The project was created exclusively for LearningJavaProgram purposes and to showcase my testing abilities.
 
 ## Installation
 - [JDK](https://www.oracle.com/pl/java/technologies/downloads/)
