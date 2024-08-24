@@ -1,1 +1,1 @@
-### [Zajavka.pl: Java w Pigułce](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
+### [YouTube: Zajavka.pl: Java w Pigułce](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
