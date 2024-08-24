@@ -5,7 +5,25 @@
 # Learning Automated Testing: Java & Selenium
 This is a personal project aimed at improving my skills in automated testing with Java and Selenium. The project was created exclusively for LearningJavaProgram purposes and to showcase my testing abilities.
 
-## Installation
+## Project structure
+
+```bash
+/java-automation-tester-course
+  ├── .github
+  │   └── workflows
+  │       └── main.yml
+  ├── .idea
+  ├── src
+  │   ├── LearningJavaProgram
+  │   ├── LearningJavaZajawka
+  │   └── Main.java
+  ├── tips
+  │   └── shortcuts.md
+  ├── .gitignore
+  ├── java-automation-tester-course.iml
+  └── README.md
+
+## Install
 - [JDK](https://www.oracle.com/pl/java/technologies/downloads/)
 - [Maven](https://maven.apache.org/download.cgi)
 - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/?section=windows)
