@@ -22,6 +22,7 @@ This is a personal project aimed at improving my skills in automated testing wit
   ├── .gitignore
   ├── java-automation-tester-course.iml
   └── README.md
+  ```
 
 ## Install
 - [JDK](https://www.oracle.com/pl/java/technologies/downloads/)
