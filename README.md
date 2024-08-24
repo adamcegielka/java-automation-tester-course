@@ -2,9 +2,8 @@
 [![Selenium.dev](https://img.shields.io/badge/Documantation-Selenium-43b02a.svg?logo=selenium)](https://www.selenium.dev/)
 [![Cucumber](https://img.shields.io/badge/Documantation-Cucumber-23d96c.svg?logo=cucumber)](https://cucumber.io/)
 
-# Learning Automated Testing: Java & Selenium
-This is a personal project aimed at improving my skills in automated testing with Java and Selenium. The project was created exclusively for LearningJavaProgram purposes and to showcase my testing abilities.
-
+# Learning the Java programming language
+This is a personal project aimed at improving my skills in automated testing with Java. The project was created exclusively for learning Java purposes and to showcase my abilities.
 ## Project structure
 
 ```bash
