@@ -1,7 +1,7 @@
 # Conventional Commits
 
 ## Quick examples
-- `feat: add new file`
+- `feat: add feature`
 - `chore: clean up unused files`
 - `chore(docs): organize documentation files`
 - `chore: config ESLint for the project`
