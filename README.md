@@ -18,6 +18,7 @@ This is a personal project aimed at improving my skills in automated testing wit
   │   ├── LearningJavaZajawka
   │   └── Main.java
   ├── tips
+  │   ├── conventional-commits.md
   │   └── shortcuts.md
   ├── .gitignore
   ├── java-automation-tester-course.iml
