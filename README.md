@@ -14,6 +14,7 @@ This is a personal project aimed at improving my skills in automated testing wit
   │       └── main.yml
   ├── .idea
   ├── src
+  │   ├── LearningJavaForTester
   │   ├── LearningJavaProgram
   │   ├── LearningJavaZajawka
   │   └── Main.java
