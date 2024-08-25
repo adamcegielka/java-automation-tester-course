@@ -1,6 +1,6 @@
 package LearningJavaZajawka;
 
-public class InstrukcjeSterujaceIfElse {
+public class L05InstrukcjeSterujaceIfElse {
     public static void main(String[] args) {
 
         System.out.println("Can I drive a car?");

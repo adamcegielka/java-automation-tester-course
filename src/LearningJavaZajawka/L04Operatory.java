@@ -1,6 +1,6 @@
 package LearningJavaZajawka;
 
-public class Operatory {
+public class L04Operatory {
     public static void main(String[] args) {
 
 //      Integer
