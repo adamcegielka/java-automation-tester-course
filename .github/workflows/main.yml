@@ -20,7 +20,3 @@ jobs:
       - name: Compile Java files
         run: |
           javac src/**/*.java
-
-      - name: Run Main class
-        run: |
-          java -cp src Main
