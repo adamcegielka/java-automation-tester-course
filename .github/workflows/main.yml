@@ -17,6 +17,10 @@ jobs:
           distribution: 'temurin'
           java-version: '22'
 
-      - name: Compile Java files
-        run: |
-          javac src/**/*.java
+      - name: Compile Java files with verbose output
+      - run: |
+      - javac -verbose src/**/*.java
+
+      - name: List compiled class files
+      - run: |
+      - find src -name "*.class"
