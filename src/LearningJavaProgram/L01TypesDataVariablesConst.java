@@ -1,6 +1,6 @@
 package LearningJavaProgram;
 
-public class TypesDataVariablesConst {
+public class L01TypesDataVariablesConst {
     public static void main(String[] args) {
         // One mark
         char oneMark;
