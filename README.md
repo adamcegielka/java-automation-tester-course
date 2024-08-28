@@ -11,8 +11,19 @@ This is a personal project aimed at improving my skills in automated testing wit
   │       └── main.yml
   ├── src
   │   ├── LearningJavaForTester
+  │   │   ├── L01PrymitywneTypyDanych.java
+  │   │   └── README.md
   │   ├── LearningJavaProgram
+  │   │   ├── L01TypesDataVariablesConst.java
+  │   │   └── README.md
   │   ├── LearningJavaZajawka
+  │   │   ├── L04Operatory.java
+  │   │   ├── L05InstrukcjeSterujaceIfElse.java
+  │   │   ├── L06Switch.java
+  │   │   ├── L06SwitchMyCode.java
+  │   │   ├── L07Petle.java
+  │   │   ├── L08Palindrom.java
+  │   │   └── README.md
   │   └── Main.java
   ├── tips
   │   ├── conventional-commits.md
