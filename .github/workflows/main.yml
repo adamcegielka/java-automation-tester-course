@@ -18,9 +18,9 @@ jobs:
           java-version: '22'
 
       - name: Compile Java files with verbose output
-      - run: |
-      - javac -verbose src/**/*.java
+        run: |
+          javac -verbose src/**/*.java
 
       - name: List compiled class files
-      - run: |
-      - find src -name "*.class"
+        run: |
+          find src -name "*.class"
