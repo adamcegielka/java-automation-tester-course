@@ -22,7 +22,7 @@ This is a personal project aimed at improving my skills in automated testing wit
   │   │   ├── L06Switch.java
   │   │   ├── L06SwitchMyCode.java
   │   │   ├── L07Petle.java
-  │   │   ├── L08Palindrom.java
+  │   │   ├── L09Palindrom.java
   │   │   └── README.md
   │   └── Main.java
   ├── tips
