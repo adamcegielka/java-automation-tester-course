@@ -45,6 +45,7 @@ This is a personal project aimed at improving my skills in automated testing wit
 - [YouTube: Kurs Java - Programowanie](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=3)
 - [YouTube: Zajavka.pl: Java w Pigułce](https://www.youtube.com/watch?v=OXu1wlo0OZk&list=PLcr3jxpNXo4Gh_WCkEK992cxERXaQp-57)
 - [YouTube: Kurs programowania Java](https://www.samouczekprogramisty.pl/kurs-programowania-java/)
+- [YouTube: Java od podstaw 2024](https://www.youtube.com/watch?v=_mgat8Fw5SI&list=PLp9WLfHXxbccTjbdEqf79zE5eJ9n6aaPW)
 - [Udemy: Testy jednostkowe - JUnit 5, Mockito 2, TDD](https://www.udemy.com/course/testy-jednostkowe)
 - [w3schools](https://my-learning.w3schools.com/tutorial/java)
 - [codewars](https://www.codewars.com/users/AdamCegielka)
