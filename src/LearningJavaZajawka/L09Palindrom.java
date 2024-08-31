@@ -2,7 +2,7 @@ package LearningJavaZajawka;
 
 import java.util.Scanner;
 
-public class L08Palindrom {
+public class L09Palindrom {
     public static void main(String[] args) {
         System.out.println("Type the word which is Palindrome");
 
